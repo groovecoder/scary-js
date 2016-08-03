@@ -1,0 +1,15 @@
+{
+  "name": "scary-js",
+  "version": "0.0.0",
+  "description": "Examples of scary js that tracks you online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Crouch",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "~13.1.0",
+    "md5": "~2.1.0"
+  }
+}
